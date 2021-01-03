@@ -1,0 +1,7 @@
+module lib {
+
+    exports lib;
+
+
+
+}
